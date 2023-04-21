@@ -1,7 +1,7 @@
 using System;
 using HtmlAgilityPack;
 
-namespace SuperMegaGiagachadApp.Content {
+namespace LyricsUnloader.Content {
     public static class SongParsing {
 
         public static string SongLyrics;

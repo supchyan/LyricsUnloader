@@ -1,0 +1,17 @@
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\bin\Release\net6.0\LyricsUnloader.exe
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\bin\Release\net6.0\LyricsUnloader.deps.json
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\bin\Release\net6.0\LyricsUnloader.runtimeconfig.json
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\bin\Release\net6.0\LyricsUnloader.dll
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\bin\Release\net6.0\LyricsUnloader.pdb
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\bin\Release\net6.0\HtmlAgilityPack.dll
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\LyricsUnloader.csproj.AssemblyReference.cache
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\LyricsUnloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\LyricsUnloader.AssemblyInfoInputs.cache
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\LyricsUnloader.AssemblyInfo.cs
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\LyricsUnloader.csproj.CoreCompileInputs.cache
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\LyricsUnloader.csproj.CopyComplete
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\LyricsUnloader.dll
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\refint\LyricsUnloader.dll
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\LyricsUnloader.pdb
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\LyricsUnloader.genruntimeconfig.cache
+C:\Users\Koheva_\Desktop\New folder\SuperMegaGigaChadApp\obj\Release\net6.0\ref\LyricsUnloader.dll

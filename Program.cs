@@ -1,22 +1,23 @@
 using System;
 using Microsoft.VisualBasic;
-using SuperMegaGiagachadApp.Content;
+using LyricsUnloader.Content;
 
-namespace SuperMegaGiagachadApp {
-    public class Program : Gigachad {
+namespace LyricsUnloader {
+    public class Program : LyUnloader
+    {
 
         static string Answer;
         static bool AnswerIsValid;
-        public override void CoolFunction() {
+        public override void aFunction() {
 
             Console.Write("\n\nPaste the link from 'genius.com' to get the song lyrics: ");
-            Gigachad.url = Console.ReadLine();
+            LyUnloader.url = Console.ReadLine();
 
             Console.Write("\nFile name: ");
-            Gigachad.name = Console.ReadLine();
+            LyUnloader.name = Console.ReadLine();
             Console.WriteLine("\nFile name has been saved.");
 
-            base.CoolFunction();
+            base.aFunction();
 
             Console.Write("Show the song lyrics in console? Y/n: ");
 
@@ -57,8 +58,8 @@ namespace SuperMegaGiagachadApp {
 
             Console.ForegroundColor = ConsoleColor.White;
 
-            Gigachad gigachad = new Program();
-            gigachad.CoolFunction();
+            LyUnloader lyunloader = new Program();
+            lyunloader.aFunction();
         }
     }
 }

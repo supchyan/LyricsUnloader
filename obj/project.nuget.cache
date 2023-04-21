@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v8cmFU3OcRQC/O3Yjp4MxJ6nVWWLqEwag0Zli+Fav/XbXcRDQ4SDL18i7oYcxzBWudAjuDbWvZcSERjzZppG5A==",
+  "dgSpecHash": "iiwD5GZkq0K751UKuZCBwGMHRSuxAbI3Sob8jnLfv0W3WzaNkwZUD42JX12Wx34QTFbWAEsBzdwgWwy8ijL4TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Koheva_\\Desktop\\New folder\\SuperMegaGigaChadApp\\SuperMegaGigaChadApp.csproj",
+  "projectFilePath": "C:\\Users\\Koheva_\\Desktop\\New folder\\SuperMegaGigaChadApp\\LyricsUnloader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Koheva_\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
     "C:\\Users\\Koheva_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",

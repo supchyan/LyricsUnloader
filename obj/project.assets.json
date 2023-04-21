@@ -3119,9 +3119,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Koheva_\\Desktop\\New folder\\SuperMegaGigaChadApp\\SuperMegaGigaChadApp.csproj",
-      "projectName": "SuperMegaGigaChadApp",
-      "projectPath": "C:\\Users\\Koheva_\\Desktop\\New folder\\SuperMegaGigaChadApp\\SuperMegaGigaChadApp.csproj",
+      "projectUniqueName": "C:\\Users\\Koheva_\\Desktop\\New folder\\SuperMegaGigaChadApp\\LyricsUnloader.csproj",
+      "projectName": "LyricsUnloader",
+      "projectPath": "C:\\Users\\Koheva_\\Desktop\\New folder\\SuperMegaGigaChadApp\\LyricsUnloader.csproj",
       "packagesPath": "C:\\Users\\Koheva_\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Koheva_\\Desktop\\New folder\\SuperMegaGigaChadApp\\obj\\",
       "projectStyle": "PackageReference",
