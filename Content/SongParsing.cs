@@ -17,8 +17,8 @@ namespace SuperMegaGiagachadApp.Content {
 
             StreamWriter Lyrics = new StreamWriter(name + ".txt");
 
-            Console.WriteLine("\n" + title.InnerHtml + "\n");
-            Lyrics.WriteLine("\n" + title.InnerHtml + "\n");
+            Console.WriteLine("\n-----\n" + title.InnerHtml + "\n-----\n");
+            Lyrics.WriteLine(title.InnerHtml + "\n");
 
             foreach (HtmlNode item in songText) {
                 

@@ -19,7 +19,7 @@ namespace SuperMegaGiagachadApp.Content {
             while (!validLink) {
                 try {
                     SongParsing.Link(url, name);
-                    Console.WriteLine("\nData has been unloaded.");
+                    Console.WriteLine("Data has been unloaded.\n~");
                     validLink = true;
                 }
                 catch (Exception) {

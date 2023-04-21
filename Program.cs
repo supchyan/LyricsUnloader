@@ -18,7 +18,7 @@ namespace SuperMegaGiagachadApp {
 
             base.CoolFunction();
 
-            Console.Write("Show song lyrics in console? Y/n: ");
+            Console.Write("Show the song lyrics in console? Y/n: ");
 
             while (!AnswerIsValid) {
 
