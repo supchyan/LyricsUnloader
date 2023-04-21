@@ -37,7 +37,8 @@ namespace SuperMegaGiagachadApp {
                 }
                     
             }
-            Console.WriteLine("\nProgram finished it's work. Press any button to close the console...");
+            Console.WriteLine("\nProgram has finished. Press any button to close the console...");
+            Console.ReadKey();
 
         }
 
