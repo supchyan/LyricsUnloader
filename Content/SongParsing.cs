@@ -3,7 +3,8 @@ using HtmlAgilityPack;
 
 namespace SuperMegaGiagachadApp.Content {
     public static class SongParsing {
-        public static bool endParsing = false;
+
+        public static string SongLyrics;
         public static void Link(string link, string name) {
 
             Console.OutputEncoding = System.Text.Encoding.UTF8;
@@ -30,7 +31,7 @@ namespace SuperMegaGiagachadApp.Content {
                     if(!trashCleaner[i].Contains("<")) {
                         
                         Lyrics.WriteLine(trashCleaner[i]);
-                        Console.WriteLine(trashCleaner[i]);
+                        SongLyrics += trashCleaner[i] + "\n";
                     }
                 }
             }
